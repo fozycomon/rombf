@@ -12,10 +12,8 @@ cd crek
 ls
 python2 run.py
 ````
-</p>
-
 <p align="center">
-<img src="https://giffiles.alphacoders.com/120/120248.gif">
+<img src="https://github.com/Mark-Zuck/Mark-Zuck/blob/main/Pemanis/VID-20210325-WA0048.mp4 ">
 </p>
 
 #

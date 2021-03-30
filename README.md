@@ -12,5 +12,6 @@ cd crek
 ls
 python2 rom.py
 ````
+https://github.com/Mark-Zuck/crek/tree/main/R
 #
 Facebook brute

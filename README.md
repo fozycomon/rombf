@@ -12,7 +12,6 @@ cd crek
 ls
 python2 rom.py
 ````
-<img src=" https://github.com/Mark-Zuck/crek/tree/main/R" width="640" title="Menu" alt="Menu">
-
+<img src="https://github.com/Mark-Zuck/crek/blob/main/R/20210330_233639.jpg" width="640" title="Menu" alt="Menu">
 #
 Facebook brute

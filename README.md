@@ -12,6 +12,11 @@ cd crek
 ls
 python2 rom.py
 ````
+### Login 
+```
+Token 
+Cookies
+```
 #### note :
 If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
 #

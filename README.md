@@ -14,6 +14,8 @@ python2 rom.py
 ````
 #### note :
 If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
+#
+If you can't use this script or there is a bug in the script, please contact me
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.rizal.58)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)

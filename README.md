@@ -1,4 +1,5 @@
-## Install
+#### Want to recode? Permit first. Appreciate the maker bro!
+# Install
 ````
 pkg update && pkg upgrade
 pkg install git

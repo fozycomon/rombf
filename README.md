@@ -1,3 +1,6 @@
+#### note :
+If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
+#
 #### Want to recode? Permit first. Appreciate the maker bro!
 # Install
 ````
@@ -18,9 +21,6 @@ python2 rom.py
 Token 
 Cookies
 ```
-#### note :
-If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
-#
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100002461344178)

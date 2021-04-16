@@ -3,7 +3,7 @@ If you want to log into Termux you are required to use a backup account. I am no
 #
 #### Want to recode? Permit first. Appreciate the maker bro!
 # Install
-````
+````bash
 pkg update && pkg upgrade
 pkg install git
 pkg install python2

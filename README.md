@@ -18,7 +18,6 @@ python2 rom.py
 ````
 ### Login 
 ```
-Token 
 Cookies
 ```
 #

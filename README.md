@@ -28,6 +28,4 @@ If you can't use this script or there is a bug in the script, please contact me
 #### Join groups facebook
 [![](https://img.shields.io/badge/Groups-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/310605552656196)
 #
-<img src="https://github.com/Mark-Zuck/crek/blob/main/R/20210330_233639.jpg" width="640" title="Menu" alt="Menu">
-#
 Facebook brute

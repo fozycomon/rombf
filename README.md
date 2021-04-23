@@ -2,7 +2,9 @@
 If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
 #
 #### Want to recode? Permit first. Appreciate the maker bro!
-# Install
+#
+Script ini telah di update pada tanggal 24 april 2021.<br>
+This script was updated on April 24, 2021. 
 ````php
 $ pkg update && pkg upgrade
 $ pkg install python2

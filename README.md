@@ -5,8 +5,8 @@ If you want to log into Termux you are required to use a backup account. I am no
 #
 Script ini telah di update pada tanggal 24 april 2021.<br>
 This script was updated on April 24, 2021. 
-````php
 # Install Script
+````php
 $ pkg update && pkg upgrade
 $ pkg install python2
 $ pip2 install mechanize

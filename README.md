@@ -12,7 +12,6 @@ $ pkg install python2
 $ pip2 install mechanize
 $ pip2 install requests bs4
 $ pkg install git
-$ rm -rf mbfb
 $ git clone https://github.com/Mark-Zuck/mbfb
 $ cd mbfb
 $ ls

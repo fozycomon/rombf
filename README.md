@@ -3,22 +3,21 @@ If you want to log into Termux you are required to use a backup account. I am no
 #
 #### Want to recode? Permit first. Appreciate the maker bro!
 # Install
-````bash
-pkg update && pkg upgrade
-pkg install git
-pkg install python2
-pip2 install requests
-pip2 install bs4
-pip2 install mechanize
-pip2 install futures
-git clone https://github.com/Mark-Zuck/mbfb
-cd crek
-ls
-python2 rom.py
+````php
+$ pkg update && pkg upgrade
+$ pkg install python2
+$ pip2 install mechanize
+$ pip2 install requests bs4
+$ pkg install git
+$ rm -rf mbfb
+$ git clone https://github.com/Mark-Zuck/mbfb
+$ cd mbfb
+$ ls
+$ python2 rom.py
 ````
 ### Login 
-```
-Cookies
+```python
+Cookies & Token
 ```
 #
 If you can't use this script or there is a bug in the script, please contact me

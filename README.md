@@ -14,7 +14,7 @@ pip2 install futures
 git clone https://github.com/Mark-Zuck/mbfb
 cd crek
 ls
-python2 update.py
+python2 rom.py
 ````
 ### Login 
 ```

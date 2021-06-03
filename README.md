@@ -15,10 +15,10 @@ $ pkg install python2
 $ pip2 install mechanize
 $ pip2 install requests bs4
 $ pkg install git
-$ git clone https://github.com/Mark-Zuck/mbfb
+$ git clone https://github.com/Mark-Zuck/rombfb
 $ cd mbfb
 $ ls
-$ python2 rom.py
+$ python rom.py
 ````
 ### Login 
 ```python

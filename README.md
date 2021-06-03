@@ -5,12 +5,11 @@ This script was updated on juni 03, 2021.
 ### Install Script
 ````php
 $ pkg update && pkg upgrade
-$ pkg install python2
-$ pip2 install mechanize
-$ pip2 install requests bs4
+$ pkg install git python -y
+$ pip install mechanize
 $ pkg install git
 $ git clone https://github.com/Mark-Zuck/rombfb
-$ cd mbfb
+$ cd rombfb
 $ ls
 $ python rom.py
 ````

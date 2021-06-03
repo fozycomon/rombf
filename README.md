@@ -16,7 +16,7 @@ $ python rom.py
 ````
 ### Login 
 ```python
-Cookies & Token
+Cookies 
 ```
 #
 If you can't use this script or there is a bug in the script, please contact me

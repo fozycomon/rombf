@@ -16,12 +16,12 @@ $ pip install -r requirements.txt
 $ python rom.py
 ````
 ### Login 
-```python
+```
 Cookies 
 ```
 #
-If you can't use this script or there is a bug in the script, please contact me
-#### contact me
+Jika terjadi bug pada script harap hubungi saya! 
+#### hubungi 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100002461344178)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
 #### Join groups facebook

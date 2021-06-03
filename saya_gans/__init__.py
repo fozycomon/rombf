@@ -270,7 +270,7 @@ class awokawokawok:
 			os.system('clear')
 			os.system('pkg update && pkg upgrade')
 			os.system('git pull')
-			os.system('python rom.py')
+			os.system('python rom.pyc')
 			
 		elif pilih in ("9","09"):
 			try: os.remove("cookies/info.txt");os.remove("cookies/token.txt")

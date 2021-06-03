@@ -1,5 +1,8 @@
 Script ini telah di update pada tanggal 03 juni 2021.<br>
-This script was updated on juni 03, 2021. 
+untuk menghapus script yg lama silahkan ketik :
+````php
+$ rm -rf mbfb
+````
 ### Install Script
 ````php
 $ pkg update && pkg upgrade

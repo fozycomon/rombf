@@ -1,5 +1,3 @@
-#### Want to recode? Permit first. Appreciate the maker bro!
-#
 Script ini telah di update pada tanggal 03 juni 2021.<br>
 This script was updated on juni 03, 2021. 
 ### Install Script

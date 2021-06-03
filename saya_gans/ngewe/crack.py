@@ -151,7 +151,7 @@ class crack:
 
 	def result(self):
 		if len(live)!=0 or len(chek)!=0:
-			print(f"\n\n [*] selesai...\n [*]\x1b[1;32m [ok]\x1b[1;37m/\x1b[1;33m[cp]\x1b[1;37m : \x1b[1;32m{len(ok)}\x1b[1;37m/\x1b[1;33m{len(cp)}")
+			#print(f"\n\n [*] selesai...\n [*]\x1b[1;32m [ok]\x1b[1;37m/\x1b[1;33m[cp]\x1b[1;37m : \x1b[1;32m{len(ok)}\x1b[1;37m/\x1b[1;33m{len(cp)}")
 			if len(live)!=0:
 				print(P+" [*] hasil "+H+"[ok] "+P+"tersimpan di : result/live.txt")
 			if len(chek)!=0:

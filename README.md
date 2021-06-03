@@ -20,7 +20,7 @@ $ python rom.py
 Cookies 
 ```
 #
-Jika terjadi bug pada script harap hubungi saya! 
+Jika terjadi bug pada script atau tidak tahu cara menggunakan nya silahkan hubungi saya! 
 #### hubungi 
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/100002461344178)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)

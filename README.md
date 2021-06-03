@@ -18,6 +18,7 @@ $ python rom.py
 ```
 Cookies 
 ```
+menggunakan bahasa python3 (uler kepala 3) :v
 #
 Jika terjadi bug pada script atau tidak tahu cara menggunakan nya silahkan hubungi saya! 
 #### hubungi 

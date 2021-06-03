@@ -26,4 +26,3 @@ Jika terjadi bug pada script atau tidak tahu cara menggunakan nya silahkan hubun
 #### Join groups facebook
 [![](https://img.shields.io/badge/Groups-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/310605552656196)
 #
-Facebook brute

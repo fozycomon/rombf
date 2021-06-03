@@ -2,6 +2,7 @@ Script ini telah di update pada tanggal 03 juni 2021.<br>
 untuk menghapus script yg lama silahkan ketik :
 ````php
 $ rm -rf mbfb
+$ rm -rf rombfb
 ````
 ### Install Script
 ````php
@@ -13,7 +14,7 @@ $ git clone https://github.com/Mark-Zuck/rombfb
 $ cd rombfb
 $ pip install -r requirements.txt
 $ ls
-$ python rom.pyc
+$ python rom.py
 ````
 ### Login 
 ```python

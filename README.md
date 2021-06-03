@@ -2,7 +2,7 @@ Script ini telah di update pada tanggal 03 juni 2021.<br>
 untuk menghapus script yg lama silahkan ketik :
 ````php
 $ rm -rf mbfb
-$ rm -rf rombfb
+$ rm -rf rombf
 ````
 ### Install Script
 ````php
@@ -10,8 +10,8 @@ $ pkg update && pkg upgrade
 $ pkg install git python -y
 $ pip install mechanize
 $ pkg install git
-$ git clone https://github.com/Mark-Zuck/rombfb
-$ cd rombfb
+$ git clone https://github.com/Mark-Zuck/rombf
+$ cd rombf
 $ pip install -r requirements.txt
 $ ls
 $ python rom.py

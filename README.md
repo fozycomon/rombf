@@ -1,7 +1,7 @@
 #### Want to recode? Permit first. Appreciate the maker bro!
 #
-Script ini telah di update pada tanggal 24 april 2021.<br>
-This script was updated on April 24, 2021. 
+Script ini telah di update pada tanggal 03 juni 2021.<br>
+This script was updated on juni 03, 2021. 
 ### Install Script
 ````php
 $ pkg update && pkg upgrade

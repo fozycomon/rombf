@@ -153,8 +153,8 @@ class crack:
 		if len(live)!=0 or len(chek)!=0:
 			#print(f"\n\n [*] selesai...\n [*]\x1b[1;32m [ok]\x1b[1;37m/\x1b[1;33m[cp]\x1b[1;37m : \x1b[1;32m{len(ok)}\x1b[1;37m/\x1b[1;33m{len(cp)}")
 			if len(live)!=0:
-				print(P+" [*] hasil "+H+"[ok] "+P+"tersimpan di : result/live.txt")
+				print("\n"+P+" [*] hasil "+H+"[ok] "+P+"tersimpan di : result/live.txt")
 			if len(chek)!=0:
-				print(P+" [*] hasil "+K+"[cp]"+P+" tersimpan di : result/chek.txt")
+				print("\n"+P+" [*] hasil "+K+"[cp]"+P+" tersimpan di : result/chek.txt")
 			exit()
 		else: exit("\n\n"+M+" [!] tidak mendapatkan hasil")

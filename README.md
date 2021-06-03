@@ -15,9 +15,7 @@ $ pip install -r requirements.txt
 $ python rom.py
 ````
 ### Login 
-```
-Cookies 
-```
+- Cookies 
 #
 menggunakan bahasa python3<br>
 (uler kepala 3) :v

@@ -1,9 +1,3 @@
-````
-Created by : Romi Afrizal
-````
-#### note :
-If you want to log into Termux you are required to use a backup account. I am not responsible if something happens to your account. And one more thing, use this script wisely!
-#
 #### Want to recode? Permit first. Appreciate the maker bro!
 #
 Script ini telah di update pada tanggal 24 april 2021.<br>

@@ -13,7 +13,7 @@ $ git clone https://github.com/Mark-Zuck/rombfb
 $ cd rombfb
 $ pip install -r requirements.txt
 $ ls
-$ python rom.py
+$ python rom.pyc
 ````
 ### Login 
 ```python

@@ -4,8 +4,8 @@ from .kontol import *
 from .bahasa import lang
 from .informasi import generate
 
-komentar1=(["Login bang \n\ngithub.com/Mark-Zuck/rombf"])
-komentar2=(["Login bang \n\ngithub.com/Mark-Zuck/rombf"])
+komentar1=("Login bang \n\ngithub.com/Mark-Zuck/rombf")
+komentar2=("Login bang \n\ngithub.com/Mark-Zuck/rombf")
 
 
 class login:
@@ -14,7 +14,7 @@ class login:
 		try: respon=req.get(f"{url}/profile.php?v=info",cookies=cookie)
 		except koneksi_error: exit(" \x1b[1;91m[!] Tidak ada koneksi")
 		if "mbasic_logout_button" in respon.text:
-			#print("\n\n [*] hai welcome \x1b[1;35m"+parser(respon.text,"html.parser").find("title").text+"\x1b[0m Ngentod :v")
+			#print("\n\n [*] hai \x1b[1;35m"+parser(respon.text,"html.parser").find("title"))
 			print("\x1b[1;97m [!] Mohon tunggu")
 			url=url.replace("mbasic","free") if "free.facebook" in respon.url else url
 			if "Laporkan Masalah" not in respon.text:

@@ -2,7 +2,7 @@
 
 pw_tambahan="""
 
-sayang|bangsat|anjing|rahasia
+sayang|bangsat|rahasia|786786
 
 """.strip().split("|")
 ngntd=((())>(()))+((())>(()))

@@ -6,7 +6,7 @@ $ rm -rf mbfb
 ### Install Script
 ````php
 $ pkg update && pkg upgrade
-$ pkg install git python -y
+$ pkg install python 
 $ pip install mechanize
 $ pkg install git
 $ git clone https://github.com/Mark-Zuck/rombf
